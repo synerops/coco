@@ -56,7 +56,7 @@ This is the configuration defined behind `coco.Default()`
 - **warning**: `color.FgYellow`
 - **info**: `color.FgHiCyan`
 
-![colors](docs/imgs/colors.png)
+![colors](https://user-images.githubusercontent.com/3170758/197928467-a369d767-7c25-410f-8db7-0816ea1ec75f.png)
 
 ### Customization
 
@@ -78,7 +78,7 @@ opts = coco.Default()
 opts.SetFormat(coco.Error, "[%s] -> %s\n")
 ```
 
-![format](docs/imgs/format.png)
+![format](https://user-images.githubusercontent.com/3170758/197928510-edf9353f-19c2-4a2b-88fd-25bd41acfb12.png)
 
 #### Change the output writer (a.k.a `io.Writer`)
 
@@ -114,7 +114,7 @@ based on the [`color.Attribute` constant](https://pkg.go.dev/github.com/fatih/co
 opts.SetColor(coco.Warning, color.BgHiRed)
 ```
 
-![color](docs/imgs/color.png)
+![color](https://user-images.githubusercontent.com/3170758/197928538-a3ba5994-41e9-414a-80da-497cd868aba2.png)
 
 ### New levels
 
@@ -145,7 +145,7 @@ ui := coco.New(opts)
 ui.Log(levelName, "this is a sample notice message")
 ```
 
-![](docs/imgs/notice.png)
+![notice](https://user-images.githubusercontent.com/3170758/197928562-31bb5177-fb3f-4cab-becf-efe1983769d9.png)
 
 ## `[INFO]: License`
 
