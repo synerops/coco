@@ -1,4 +1,12 @@
-# coco
+# coco 
+
+<p align="center"><a href="#readme"><img src="https://user-images.githubusercontent.com/3170758/198417756-46a68599-9c53-4ab5-948e-033b74ff1dc3.png" alt="logo"/></a></p>
+
+<p align="center">
+  <a href="https://pkg.go.dev/github.com/synerops/coco"><img src="https://pkg.go.dev/badge/github.com/synerops/coco.svg" alt="docs" /></a>
+  <a href="https://goreportcard.com/report/github.com/synerops/coco"><img src="https://goreportcard.com/badge/github.com/synerops/coco" alt="GoReportCard" /></a>
+  <a href="https://github.com/synerops/coco/blob/main/LICENSE"><img alt="license" src="https://img.shields.io/github/license/synerops/coco"></a>
+</p>
 
 `coco` is a _colorized-intended_ library to provide an easy way to display logs on cli-based applications.
 
@@ -157,8 +165,8 @@ Feel free to contribute to any aspect of the project. Any initiative will be hig
 
 ## `[INFO]: TO-DO`
 
-- [ ] Improve documentation using `godoc`
-- [ ] Export the package to [Go Packages](https://pkg.go.dev/)
+- [x] Improve documentation
+- [x] Export the package to [Go Packages](https://pkg.go.dev/)
 - [ ] Create a method to change the `GlobalFormat` and apply it across the levels
 
 ## `[INFO]: Sponsor`
