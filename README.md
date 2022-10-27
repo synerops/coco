@@ -163,6 +163,7 @@ Feel free to contribute to any aspect of the project. Any initiative will be hig
 
 ## `[INFO]: Sponsor`
 
-`coco` is sponsored by my solo-company [SynerOps](https://synerops.com). Feel free to reach me out.
+`coco` is sponsored by my tech startup [SynerOps](https://synerops.com) where I'm the founder and solo-developer. 
+Feel free to reach me out.
 
 ![synerops](https://avatars.githubusercontent.com/u/70786831?s=50&v=4)

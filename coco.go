@@ -10,6 +10,11 @@ import (
 	"github.com/fatih/color"
 )
 
+// Log structs encapsulates the list of levels defined by default and new ones that might be created by the user
+type Log struct {
+	opts *Option
+}
+
 // New returns a newly created log object
 func New(opts *Option) *Log {
 	return &Log{
